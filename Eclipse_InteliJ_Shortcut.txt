@@ -1,0 +1,12 @@
+Eclipse     		Intelij     		Description 
+alt+shift+r			shift+F6			rename
+ctrl+shift+r		ctrl+shift+N		find file / open resource
+ctrl+shift+o		ctrl+alt+o			organize imports
+ctrl+shift+m		ctrl+alt+V			create local variable refactoring
+syso ctrl+space		sout ctrj+j			System.out.println(“”)
+ctrl + d			ctrl + y			delete current line
+ctrl + h			ctrl + shift + f	search (find in path)
+alt + shift + s		alt + insert		generate getters / setters
+ctrl + shift + f	ctrl + alt + l		format code
+ctrl + shift + i 	alt + f8			evaluate expression (in debugger)
+ctrl + l			ctrl + g			go to line
