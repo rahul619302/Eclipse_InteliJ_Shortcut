@@ -10,3 +10,12 @@ alt + shift + s		alt + insert		generate getters / setters
 ctrl + shift + f	ctrl + alt + l		format code
 ctrl + shift + i 	alt + f8			evaluate expression (in debugger)
 ctrl + l			ctrl + g			go to line
+
+
+EnteliJ Shortcut for Debuging
+F8 Step over
+F7 Step into
+Alt + F8 Evaluate expression
+F9(Like F8 in eclipse)  Resume program
+Ctrl + F8 (Mac: Cmd + F8) Toggle breakpoint
+Ctrl + Shift + F8 (Mac: Cmd + Shift + F8) View breakpoints
